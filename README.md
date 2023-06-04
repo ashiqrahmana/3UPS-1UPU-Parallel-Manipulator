@@ -12,7 +12,7 @@ The project will involve the following key aspects:
 
  * **Long-Term Performance Evaluation**: The manipulator will be tested for its prolonged operation over an extended period of time. The drift of accuracy of the system will be monitored and analyzed to understand how the manipulator's performance may change over time. This evaluation will help determine the system's reliability and stability for continuous operation.
 
-The expected results of this project include a fully functional 3D printed robotic manipulator that meets the specified load, speed, precision, and accuracy requirements. The manipulator will undergo rigorous testing to ensure its performance under various conditions, including overloads and extended operation.
+**Hardware Used**: Teensy, Enocders
 
 The outcomes of this project can have applications in various fields, including industrial automation, manufacturing processes, and research laboratories. The developed manipulator can be utilized for tasks such as material handling, pick-and-place operations, and precise positioning, contributing to increased efficiency and productivity in relevant domains.
 
